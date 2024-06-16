@@ -1,1 +1,1 @@
-# Leet-Code-Questions
+This repository stores my solutions to various coding challenges on Leet Code. Each solution includes the problem statement. This project aims to not only document my progress but also serve as a resource for others to learn and understand problem-solving techniques on Leet Code.
